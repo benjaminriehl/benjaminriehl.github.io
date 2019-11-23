@@ -1,7 +1,6 @@
 # **Welcome!**
 ## This is my website! 
-### It will host any projects that I'm currently pursuing
-### Such as:
+### It will host any projects that I'm currently pursuing. Such as:
 
 #### Duke of Edinburgh Award - Skills Section
 [Silver Level](DofE-python-edu "Silver Level")

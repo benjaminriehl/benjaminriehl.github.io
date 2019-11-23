@@ -1,9 +1,7 @@
 # **Welcome!**
 
-![Me!](https://user-images.githubusercontent.com/3443859/69485652-21ee1600-0e08-11ea-969f-00b38753d4c8.jpg)
-
 ## This is my website 
-## It will host any projects that im currently pursuing
+## It will host any projects that I'm currently pursuing
 
 ### Duke of Edinburgh Award - Skills Section
 [Silver Level](DofE-python-edu "Silver Level")

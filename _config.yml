@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Ben's Stuff
 description: What do I put here?
+plugins:
+  - jekyll-seo-tag

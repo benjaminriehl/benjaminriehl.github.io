@@ -3,7 +3,7 @@
 ### It will host any projects that I'm currently pursuing. Such as:
 
 #### Duke of Edinburgh Award - Skills Section
-[Silver Level](DofE-python-edu "Silver Level")
+[Silver Level](DofE-Silver "Silver Level")
 
 #### This Website
 [My Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

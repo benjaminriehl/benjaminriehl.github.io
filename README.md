@@ -5,6 +5,9 @@
 #### Duke of Edinburgh Award - Skills Section
 [Silver Level](DofE-Silver "Silver Level")
 
+#### Any school topic that has projects or big assignments
+[School Projects](school "School Projects")
+
 #### This Website
 [My Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 

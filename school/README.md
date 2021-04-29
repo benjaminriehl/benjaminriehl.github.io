@@ -1,4 +1,4 @@
-# Collection of School Assignments and Projects
+# School Projects
 
 #### Math
 

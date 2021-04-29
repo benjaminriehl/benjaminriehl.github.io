@@ -13,7 +13,12 @@ minima:
     github: benjaminriehl
 
 
+header_pages:
+  - README.md
+  - school/README.md
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
 theme: minima
+  skin: dark

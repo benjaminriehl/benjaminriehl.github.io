@@ -1,13 +1,18 @@
-theme: minima
 title: Wonderful World of Ben
-description: Dumping ground for several projects
 author:
   name: Benjamin Riehl
   email: ghp@riehl.me
+  description: Dumping ground for several projects
+
+show_excerpts: false
+
 minima:
   date_format: "%b %-d, %Y"
   social_links:
     github: benjaminriehl
+
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+theme: minima

@@ -1,4 +1,8 @@
-# School Projects
+---
+layout: page
+title: School Projects
+permalink: /school/
+---
 
 #### Math
 

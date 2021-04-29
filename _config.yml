@@ -21,4 +21,3 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 theme: minima
-  skin: dark

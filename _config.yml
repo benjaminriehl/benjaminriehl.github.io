@@ -16,6 +16,7 @@ minima:
 header_pages:
   - README.md
   - school/README.md
+  - about.md
 
 plugins:
  - jekyll-feed

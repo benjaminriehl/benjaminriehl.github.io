@@ -14,7 +14,6 @@ minima:
 
 
 header_pages:
-  - index.md
   - school/README.md
   - about.md
 

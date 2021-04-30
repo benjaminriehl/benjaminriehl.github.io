@@ -16,6 +16,7 @@ minima:
 header_pages:
   - school/README.md
   - about.md
+  - cbnf/index.md
 
 plugins:
  - jekyll-feed

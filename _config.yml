@@ -14,8 +14,9 @@ minima:
 
 
 header_pages:
-  - school/README.md
   - about.md
+  - school/README.md
+
   - cbnf/index.md
 
 plugins:

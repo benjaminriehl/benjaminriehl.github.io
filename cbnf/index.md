@@ -1,5 +1,7 @@
 ---
-post: CBNF - Canada's Best New France Radio Station
+post: page
+title: CBNF
+permalink: /school/cbnf
 ---
 
 #TODO: PUT STUFF ON HERE

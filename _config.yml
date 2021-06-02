@@ -17,8 +17,6 @@ header_pages:
   - about.md
   - school/README.md
 
-  - cbnf/index.md
-
 plugins:
  - jekyll-feed
  - jekyll-seo-tag

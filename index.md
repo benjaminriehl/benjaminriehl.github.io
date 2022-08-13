@@ -2,7 +2,7 @@
 title: Welcome!
 ---
 
-## This is my new website! 
-It will host any projects that I'm currently pursuing. But it might be blank for a bit as it's going under renovations.
+# Howdy!
+Welcome to my ever so barren website, it's a work in progress but I'm adding stuff over time.
 
-## Here are my most recent blog posts:
+## Here are my most recent posts:

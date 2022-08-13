@@ -16,6 +16,7 @@ minima:
 header_pages:
   - about.md
   - school/README.md
+  - hobbies/index.md
 
 plugins:
  - jekyll-feed
